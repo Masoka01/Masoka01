@@ -1,25 +1,42 @@
 <div align="center">
-  <img width="100%" alt="Masoka Banner" src="https://github.com/user-attachments/assets/fe6c16a7-7e39-4844-833e-2279f856eb64" />
+  <img width="100%" alt="Mayoni.Code Banner" src="https://github.com/user-attachments/assets/fe6c16a7-7e39-4844-833e-2279f856eb64" />
 
-  <h1>Masoka - Toko Kaos & Undangan Pernikahan</h1>
-  <p>Platform e-commerce responsif untuk pemesanan kaos kustom dan desain undangan pernikahan.</p>
+  <h1>💻 Mayoni.Code - Web Development Services</h1>
+  <p>Membangun website responsif, interaktif, dan fungsional untuk kebutuhan bisnismu.</p>
 </div>
 
 ---
 
-## 📖 Tentang Project
+## 🚀 Tentang Saya
 
-Masoka adalah antarmuka website e-commerce yang dirancang khusus untuk mempermudah pelanggan dalam melihat katalog dan memesan produk. Project ini berfokus pada pengalaman pengguna yang mulus (*seamless UX*) di perangkat mobile maupun desktop, menampilkan galeri produk yang menarik untuk kaos dan desain undangan pernikahan.
+Halo! Saya **Dimas Mayoni**, seorang *Web Developer* dan *Electronics Engineer* bersertifikat BNSP yang berdomisili di Mojokerto, Jawa Timur. Saya terbiasa bekerja secara mandiri maupun dalam tim untuk membantu klien *go digital*. Fokus utama saya adalah memberikan pengalaman pengguna yang mulus melalui antarmuka web yang bersih dan responsif.
 
-## ✨ Fitur Utama
+## 💡 Layanan yang Ditawarkan
 
-* **Galeri Produk Dinamis:** Menampilkan katalog kaos dan undangan pernikahan dengan rapi.
-* **Desain Responsif:** Tampilan yang sudah dioptimalkan untuk perangkat *mobile* maupun *desktop*.
-* **Navigasi Intuitif:** Memudahkan pengguna menemukan detail produk dan informasi pemesanan.
-* **[Tambahkan fitur unggulan lainnya di sini...]**
+* **Web Development:** Jasa pembuatan *company profile* dan *landing page* yang profesional.
+* **Undangan Digital:** Pengembangan platform undangan pernikahan digital yang interaktif.
+* **Frontend Slicing:** Mengubah desain UI/UX menjadi kode HTML, CSS, dan JavaScript yang rapi.
+* **Konsultasi & Hosting:** Bantuan dalam perancangan antarmuka hingga proses *deploy* ke *hosting*.
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tech Stack & Skills
 
-* **HTML5:** Struktur utama halaman web.
-* **CSS3:** Styling, layouting, dan memastikan responsivitas desain.
-* **JavaScript:** Interaktivitas halaman dan manipulasi elemen DOM.
+* **Core Web:** HTML, CSS, JavaScript
+* **Desain & Grafis:** Inkscape, CorelDRAW
+* **Sistem & Hardware:** Linux & CLI, Pemrograman Arduino, Hardware Komputer
+
+## 📈 Pengalaman Kerja
+
+* **Freelance Web Developer** | *Mayoni.Code* (Des 2025 - Sekarang)
+* **Web Developer - Undangan Digital** | *Teknos Indonesia* (Apr 2024 - Agu 2025)
+
+## 📬 Hubungi Saya
+
+Punya ide project atau butuh bantuan *coding*? Mari ngobrol dan wujudkan bareng!
+
+* 👤 **Dimas Mayoni**
+* 📍 **Lokasi:** Mojokerto, Jawa Timur
+* 📧 **Email:** dimasmayoni8829@gmail.com
+* 💬 **WhatsApp:** 0851-6119-4164
+
+---
+<p align="center"><i>Dibuat dengan ☕ oleh Mayoni.Code</i></p>
