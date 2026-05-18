@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" alt="Mayoni.Code Banner" src="https://github.com/user-attachments/assets/fe6c16a7-7e39-4844-833e-2279f856eb64" />
 
-  <h1>💻 Mayoni.Code <br> Web Development Services</h1>
+  <h1>💻 Mayoni.Code - Web Development Services</h1>
   <p>Membangun website responsif, interaktif, dan fungsional untuk kebutuhan bisnismu.</p>
 </div>
 
